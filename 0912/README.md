@@ -2,9 +2,9 @@
 
 ## 1. 개발 환경
 
-* **Dev-C++ (Orwell Dev-C++)** 사용 권장
+* **Dev-C++ (Orwell Dev-C++)** 
   👉 [https://sourceforge.net/projects/orwelldevcpp/](https://sourceforge.net/projects/orwelldevcpp/)
-
+* **Visual Studio Code** 사용 권장
 ---
 
 ## 2. 커서 제어
@@ -177,5 +177,6 @@ double sum(int count, ...) {
     return total;
 }
 ```
+
 
 ---
